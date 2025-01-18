@@ -1,0 +1,11 @@
+星耀点评
+
+前后端项目地址：D:\Code\java\demo\dianping
+前端启动：
+    D:\Code\java\demo\dianping\nginx-1.20.2
+    图片等静态资源：D:\Code\java\demo\dianping\nginx-1.20.2\html\dianping\imgs
+
+
+前端访问：http://localhost/login.html
+
+reids数据预热：com.hmdp.HmDianPingApplicationTests.loadShopData
